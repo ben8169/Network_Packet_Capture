@@ -2,6 +2,7 @@
 
 ## Overview
 - Captures Only IP Type / TCP Protocol (Can Be Modified)
+-  Detailed Workflow and Description is included with annotation.
 
 ## Packet Analysis
 ### Ethernet Header
@@ -17,8 +18,3 @@
 - Source Port
 - Destination Port
 - Flags
-
-## Detailed Workflow and Description is included with annotation.
-
-
-
